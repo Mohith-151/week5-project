@@ -23,9 +23,9 @@ WEEK 5/
 │   ├── customer_data.csv          # Customer demographics, contract, churn info
 │   └── sales_data.csv             # Transaction-level sales records
 │
-├── images/          # Exported chart images from the notebook
+├── images/                        # Exported chart images from the notebook
 │
-├── customer_analysis_report.pdf   # HTML-exported Jupyter Notebook report
+├── customer_analysis_report.pdf   # PDF-exported Jupyter Notebook report
 ├── customer_analysis.ipynb        # Main analysis notebook
 ├── README.md                      # Project documentation (this file)
 └── requirements.txt               # Python dependencies
