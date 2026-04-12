@@ -23,7 +23,7 @@ WEEK 5/
 │   ├── customer_data.csv          # Customer demographics, contract, churn info
 │   └── sales_data.csv             # Transaction-level sales records
 │
-├── Visual_output_Images/          # Exported chart images from the notebook
+├── images/          # Exported chart images from the notebook
 │
 ├── customer_analysis_report.pdf   # HTML-exported Jupyter Notebook report
 ├── customer_analysis.ipynb        # Main analysis notebook
