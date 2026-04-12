@@ -141,17 +141,15 @@ _(Source: Pivot table — `contract_value_pivot`)_
 Despite having the highest churn risk, month-to-month customers generate the most total revenue — highlighting a critical retention vs. revenue trade-off.
 
 ---
-### Visual Insights
 
-#### Regional Sales Performance
-![Regional Sales](toalSales_by_Region.png)
-
-#### Monthly Revenue Trends
-![Monthly Performance](Monthly_performance_pieChart.png)
-
-#### Customer Analysis
-![Top Customers](Top5customer's_Sales.png)
-![Stayed Customers](top5-Stayed-customer's_Sales.png)
+<div align="center">
+  <h3>Visual Insights</h3>
+  <img src="images/toalSales_by_Region.png" width="400" alt="Regional Sales">
+  <img src="images/Monthly_performance_pieChart.png" width="400" alt="Monthly Performance">
+  <br>
+  <img src="images/Top5customer's_Sales.png" width="400" alt="Top Customers">
+  <img src="images/top5-Stayed-customer's_Sales.png" width="400" alt="Stayed Customers">
+</div>
 
 ---
 
