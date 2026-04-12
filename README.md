@@ -144,14 +144,14 @@ Despite having the highest churn risk, month-to-month customers generate the mos
 ### Visual Insights
 
 #### Regional Sales Performance
-![Regional Sales](Visua_outputl_Images\toalSales_by_Region.png)
+![Regional Sales](toalSales_by_Region.png)
 
 #### Monthly Revenue Trends
-![Monthly Performance](Visua_outputl_Images\Monthly_performance_pieChart.png)
+![Monthly Performance](Monthly_performance_pieChart.png)
 
 #### Customer Analysis
-![Top Customers](Visua_outputl_Images\Top5customer's_Sales.png)
-![Stayed Customers](Visua_outputl_Images\top5-Stayed-customer's_Sales.png)
+![Top Customers](Top5customer's_Sales.png)
+![Stayed Customers](top5-Stayed-customer's_Sales.png)
 
 ---
 
